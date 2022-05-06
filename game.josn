@@ -1,0 +1,45 @@
+[{
+ 		"id": 1,
+ 		"tag": "aisa",
+ 		"image": "https://bkimg.cdn.bcebos.com/pic/fc1f4134970a304ed7ad2b0fd7c8a786c8175cbc?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
+ 		"title": "cs:go",
+ 		"message": "《反恐精英：全球攻势》，原名Counter-Strike: Global Offensive，是一款由VALVE与Hidden Path Entertainment合作开发、Valve Software发行的第一人称射击游戏，于2012年8月21日在欧美地区正式发售，国服发布会于2017年4月11日在北京召开。 [1-2]  游戏为《反恐精英》系列游戏的第四款作品（不包括Neo和Online等衍生作品）。 [3] 
+游戏玩家分为反恐精英（CT阵营）与恐怖份子（T阵营）两个阵营，双方需在一个地图上进行多回合的战斗，达到地图要求目标或消灭全部敌方则取得胜利。"
+ 	},
+ 	{
+ 		"id": 2,
+ 		"tag": "aisa",
+ 		"image": "https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3e5c1c8624898ba61ea9d345cc?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto",
+ 		"title": "Tang Dynasty",
+ 		"游戏将玩家分为反恐精英（Counter Terrorists/CT）阵营与恐怖份子（Terrorists/T）阵营两队，每个队伍必须在一个地图上进行多回合的战斗。赢得回合的方法是达到该地图要求的目标，或者是完全消灭敌方玩家。 [3-4]  [7] 
+《反恐精英：全球攻势》包含全新地图，角色与武器，同时将向经典CS发布升级。另外，游戏还引入全新的游戏模式，竞技配对系统，排行榜等。新的对战模式分为休闲和竞技两种。在休闲模式中，玩家的攻击将不会对队友造成误伤，可以跨团队和敌方聊天，系统还将自动为人物穿上防弹衣。"
+ 	},
+ 	{
+ 		"id": 3,
+ 		"tag": "aisa",
+ 		"image": "https://img2.baidu.com/it/u=3452707533,3641392114&fm=253&fmt=auto&app=120&f=JPEG?w=1272&h=800",
+ 		"title": "Qing Dynasty",
+ 		"message": "The Qing Dynasty ruled China from 1644 to 1912, the last imperial dynasty to rule China. The emperors of the Qing Dynasty were not the Han Chinese but the Manchu people. By 1683 the Qing emperors had asserted control over most of China. By 1911-1912the Wuchang Uprising brought an end to the long imperial history of the country and China was declared a republic."
+ 	},
+ 	{
+ 		"id": 4,
+ 		"tag": "euro",
+ 		"image": "https://img1.baidu.com/it/u=2434868115,390513657&fm=253&fmt=auto&app=138&f=PNG?w=500&h=306",
+ 		"title": "Renaissance",
+ 		"message": "The Italian Renaissance began around 1400, causing a major cultural shift with emphasis on art and science, and important artists like Michelangelo and Leonardo da Vinci emerged. The Age of Exploration and Discovery had begun, and explorers were sent from many countries, especially by the Spanish, Portuguese, French, and British. The Protestant Reformation began around 1517 with Martin Luther publishing the Ninety-five Theses, beginning a period of church reform that would last until 1648. The Thirty Years War lasted from 1618 to 1648, sparked by the religious division of Germany and ending with the Peace of Westphalia. "
+ 	},
+ 	{
+ 		"id": 5,
+ 		"tag": "euro",
+ 		"image": "https://img0.baidu.com/it/u=4249641189,2185247748&fm=253&fmt=auto&app=120&f=JPEG?w=1229&h=800",
+ 		"title": "French Revolution",
+ 		"message": "France had emerged as a powerful nation, and the French Revolution in 1789 set off a new model of government, with other nations following suit with the European Revolutions in 1848. Many changes subsequently occurred, including the formation of the Austro-Hungarian Empire in 1867, and the unification of Germany and of Italy in 1871."
+ 	},
+ 	{
+ 		"id": 6,
+ 		"tag": "euro",
+ 		"image": "https://img1.baidu.com/it/u=4240486311,1261045190&fm=253&fmt=auto&app=138&f=JPEG?w=712&h=500",
+ 		"title": "World War I",
+ 		"message": "In 1914, World War I began with the assassination of Archduke Franz Ferdinand, and the war was fought primarily in Europe. The war ended with the Treaty of Versailles in 1919, but caused major devastation and major changes in Europe. The Russian Revolution, formation of the USSR, the dissolution of Austria-Hungary, the collapse of the Ottoman Empire, and the Turkish War of Independence all happened within a short time. With the stock market crash of 1929 and the ensuing Great Depression, the scene was set for World War II. The Nazi party, led by Hitler, rose to power around 1933, while the Great Purge in the Soviet Union, led by Stalin began in 1937. World War II began in 1939 and continued until 1945, causing incredible destruction and many deaths. "
+ 	}
+ ]
