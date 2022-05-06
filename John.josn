@@ -1,0 +1,8 @@
+{
+		"id": 1,       // 编号，唯一不重复
+		"tag": "aisa", // 标签，用于观看界面的分类
+// 图片，外部网址。 http前缀 base64图片		
+"image":  "https://img1.baidu.com/it/u=584569230,3404425554&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=283",
+		"title": "Qin Dynasty", // 文章标题，也有图片的摘要
+		"message": "The \"Qin dynasty\" followed the Zhou reign and lasted from 221 BC to 207 BC. The emperors Ying Zheng, Fushu, and Zi Ying were expansionists and stretched the boundaries of the empire to the north and the south. It was during the reign of the Qin emperors that the Great Wall of China was built to protect the empire against the invasion of the Mongols." // 文章主题，如果有符号请用转义字符 \ 代替
+}
