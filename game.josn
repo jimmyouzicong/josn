@@ -1,45 +1,44 @@
-[{
- 		"id": 1,
- 		"tag": "aisa",
- 		"image": "https://bkimg.cdn.bcebos.com/pic/fc1f4134970a304ed7ad2b0fd7c8a786c8175cbc?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U4MA==,g_7,xp_5,yp_5/format,f_auto",
- 		"title": "cs:go",
- 		"message": "《反恐精英：全球攻势》，原名Counter-Strike: Global Offensive，是一款由VALVE与Hidden Path Entertainment合作开发、Valve Software发行的第一人称射击游戏，于2012年8月21日在欧美地区正式发售，国服发布会于2017年4月11日在北京召开。 [1-2]  游戏为《反恐精英》系列游戏的第四款作品（不包括Neo和Online等衍生作品）。 [3] 
-游戏玩家分为反恐精英（CT阵营）与恐怖份子（T阵营）两个阵营，双方需在一个地图上进行多回合的战斗，达到地图要求目标或消灭全部敌方则取得胜利。"
- 	},
- 	{
- 		"id": 2,
- 		"tag": "aisa",
- 		"image": "https://bkimg.cdn.bcebos.com/pic/6d81800a19d8bc3e5c1c8624898ba61ea9d345cc?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U5Mg==,g_7,xp_5,yp_5/format,f_auto",
- 		"title": "Tang Dynasty",
- 		"游戏将玩家分为反恐精英（Counter Terrorists/CT）阵营与恐怖份子（Terrorists/T）阵营两队，每个队伍必须在一个地图上进行多回合的战斗。赢得回合的方法是达到该地图要求的目标，或者是完全消灭敌方玩家。 [3-4]  [7] 
-《反恐精英：全球攻势》包含全新地图，角色与武器，同时将向经典CS发布升级。另外，游戏还引入全新的游戏模式，竞技配对系统，排行榜等。新的对战模式分为休闲和竞技两种。在休闲模式中，玩家的攻击将不会对队友造成误伤，可以跨团队和敌方聊天，系统还将自动为人物穿上防弹衣。"
- 	},
- 	{
- 		"id": 3,
- 		"tag": "aisa",
- 		"image": "https://img2.baidu.com/it/u=3452707533,3641392114&fm=253&fmt=auto&app=120&f=JPEG?w=1272&h=800",
- 		"title": "Qing Dynasty",
- 		"message": "The Qing Dynasty ruled China from 1644 to 1912, the last imperial dynasty to rule China. The emperors of the Qing Dynasty were not the Han Chinese but the Manchu people. By 1683 the Qing emperors had asserted control over most of China. By 1911-1912the Wuchang Uprising brought an end to the long imperial history of the country and China was declared a republic."
- 	},
- 	{
- 		"id": 4,
- 		"tag": "euro",
- 		"image": "https://img1.baidu.com/it/u=2434868115,390513657&fm=253&fmt=auto&app=138&f=PNG?w=500&h=306",
- 		"title": "Renaissance",
- 		"message": "The Italian Renaissance began around 1400, causing a major cultural shift with emphasis on art and science, and important artists like Michelangelo and Leonardo da Vinci emerged. The Age of Exploration and Discovery had begun, and explorers were sent from many countries, especially by the Spanish, Portuguese, French, and British. The Protestant Reformation began around 1517 with Martin Luther publishing the Ninety-five Theses, beginning a period of church reform that would last until 1648. The Thirty Years War lasted from 1618 to 1648, sparked by the religious division of Germany and ending with the Peace of Westphalia. "
- 	},
- 	{
- 		"id": 5,
- 		"tag": "euro",
- 		"image": "https://img0.baidu.com/it/u=4249641189,2185247748&fm=253&fmt=auto&app=120&f=JPEG?w=1229&h=800",
- 		"title": "French Revolution",
- 		"message": "France had emerged as a powerful nation, and the French Revolution in 1789 set off a new model of government, with other nations following suit with the European Revolutions in 1848. Many changes subsequently occurred, including the formation of the Austro-Hungarian Empire in 1867, and the unification of Germany and of Italy in 1871."
- 	},
- 	{
- 		"id": 6,
- 		"tag": "euro",
- 		"image": "https://img1.baidu.com/it/u=4240486311,1261045190&fm=253&fmt=auto&app=138&f=JPEG?w=712&h=500",
- 		"title": "World War I",
- 		"message": "In 1914, World War I began with the assassination of Archduke Franz Ferdinand, and the war was fought primarily in Europe. The war ended with the Treaty of Versailles in 1919, but caused major devastation and major changes in Europe. The Russian Revolution, formation of the USSR, the dissolution of Austria-Hungary, the collapse of the Ottoman Empire, and the Turkish War of Independence all happened within a short time. With the stock market crash of 1929 and the ensuing Great Depression, the scene was set for World War II. The Nazi party, led by Hitler, rose to power around 1933, while the Great Purge in the Soviet Union, led by Stalin began in 1937. World War II began in 1939 and continued until 1945, causing incredible destruction and many deaths. "
- 	}
- ]
+[
+    {
+        "id": 1,
+        "tag": "Shooting game",
+        "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3dmgame.com%2Fuploads%2Fimages%2Fnews%2F20201022%2F1603367509_333525.jpg&refer=http%3A%2F%2Fimg.3dmgame.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655029931&t=0ea2f73faff010dc91244fee71d9371f",
+        "title": "Battlefield Ⅴattle",
+        "message": "《战地5》是一款由EA DICE工作室开发制作、EA（美国艺电）出版发行的第一人称射击游戏。\n游戏采用了寒霜引擎，展现了更强大的3D细节效果，把动画、环境破坏、光照、地图和音效提升到一个新的高度。游戏于2018年11月20日在PC、Xbox One、PS4平台正式发售。\n《战地5》是《战地1》的正统续作，PC版多人模式支持高达64人网络对战。"
+    },
+    {
+        "id": 2,
+        "tag": "Shooting game",
+        "image": "https://img1.baidu.com/it/u=287632534,2172937882&fm=253&fmt=auto&app=138&f=JPEG?w=504&h=309",
+        "title": "Counter-Strike: Global Offensive",
+        "message": "游戏将玩家分为反恐精英（Counter Terrorists/CT）阵营与恐怖份子（Terrorists/T）阵营两队，每个队伍必须在一个地图上进行多回合的战斗。赢得回合的方法是达到该地图要求的目标，或者是完全消灭敌方玩家。 [3-4]  [7] \n《反恐精英：全球攻势》包含全新地图，角色与武器，同时将向经典CS发布升级。另外，游戏还引入全新的游戏模式，竞技配对系统，排行榜等。新的对战模式分为休闲和竞技两种。在休闲模式中，玩家的攻击将不会对队友造成误伤，可以跨团队和敌方聊天，系统还将自动为人物穿上防弹衣。"
+    },
+    {
+        "id": 3,
+        "tag": "Shooting game",
+        "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.jj20.com%2Fup%2Fallimg%2F4k%2Fs%2F01%2F21092412092K1E-0-lp.jpg&refer=http%3A%2F%2Fimg.jj20.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655030140&t=d0aff1bd4260c214c502a3f582a1d480",
+        "title": "PUBG",
+        "message": "《绝地求生》(PUBG) 是由韩国Krafton工作室开发的一款战术竞技型射击类沙盒游戏 [1]  [36-37]  。\n在该游戏中，玩家需要在游戏地图上收集各种资源，并在不断缩小的安全区域内对抗其他玩家，让自己生存到最后 [2]  。\n游戏《绝地求生》除获得G-STAR最高奖项总统奖以及其他五项大奖 [3]  ，还打破了7项吉尼斯纪录。\n2018年8月9日，《绝地求生》官方宣布，将开启“百日行动”，进行持续数月的自查运动，为玩家提供一个更好的游戏体验[4]  ；11月，有超过200万个账户被冻结 [5]  。该游戏于2018年12月7日登陆PS4平台 [6]  。\n《绝地求生》将于2022年1月12日在主机和PC上变成免费游戏 [43] "
+    },
+    {
+        "id": 4,
+        "tag": "Sandbox Games",
+        "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fy.zdmimg.com%2F201702%2F02%2F5892ae2fe948254.png_e600.jpg&refer=http%3A%2F%2Fy.zdmimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655030336&t=2d1660a0c9d03b04bb4ecfc25fc39119",
+        "title": "ARK: Survival Evolved",
+        "message": "《方舟：生存进化》故事主要讲述，一群男女从在岸边醒来后，发现自己身处一个充满恐龙的神秘岛屿“ARK”。游戏中除了狩猎、资源搜刮、物品打造、种植、科研、调查技术和建造房子来抵抗炎热的白天，冰冷的夜晚，易变的天气系统，危险的野外和潜在的敌人等之外，玩家还必须面对其他玩家所扮演的幸存者，合作或者是相互厮杀。并且有80多种恐龙和其他史前生物，玩家们可以驯服这些庞大的生物，并利用它们来和更强的敌人战斗。当然恐龙并非岛上的危险生物，其他的玩家也正在组织自己的部落，积累各种资源和经验来建立庞大的村庄和城市，他们还能不断发展技术来跨越原始的石器时代并进入现代的电气时代，而且他们还会不断战斗来摧毁威胁到他们的人。\n此外玩家们还需要通过策略战术来驯服游戏中出现的各种恐龙和其他原始生物，并利用他们来跨越海陆空甚至进入地下世界。玩家们可以利用本作中深入的角色扮演系统来充分打造自己角色的长处，并获得各种物品、技能和宠物等。玩家们还要同数以百计的其他玩家部落展开生存竞争，并最终发现“方舟(ARK)”的真正目的。 [3] \n80多种恐龙使用各种策略去驯服、训练，同时还能繁殖恐龙和其它史前生物，这些生物生活在陆地、海洋、空气甚至地下洞窟等各色完整的生态系统中。除了探索一个庞大且具有生命力的史前环境，还要摸索出生存的方法，壮大自己，最终逃离方舟。[1] "
+    },
+    {
+        "id": 5,
+        "tag": "Sandbox Games",
+        "image": "https://img2.baidu.com/it/u=636720402,1800517638&fm=253&fmt=auto&app=120&f=JPEG?w=889&h=500",
+        "title": "Minecraft",
+        "message": "《我的世界》着重于让玩家探索、交互并改变一个动态生成由许多1m³大小的方块组成的世界。除了方块以外，环境中还包括动植物与物品。游戏的内容包括但不限于采集矿石，与敌对生物战斗，以及收集游戏中的各种资源来合成新的方块与工具。开放的游戏模式允许玩家在各类多人服务器或单人地图中创造建筑物与艺术作品。其他内容包括用于逻辑运算与远程控制的红石电路、矿车及轨道，可以去称之为“下界”（即地狱）的神秘世界。最终，可以选择前往一个叫做“末路之地”（即末地）的维度旅行，并击败末影龙。[4] "
+    },
+    {
+        "id": 6,
+        "tag": "Sandbox Games",
+        "image": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.3dmgame.com%2Fuploads%2Fimages%2Fnews%2F20211103%2F1635907292_418011.jpg&refer=http%3A%2F%2Fimg.3dmgame.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1655030632&t=ba8a4e1827e52682d33594af70ccb710",
+        "title": "RUST",
+        "message": "《腐蚀Rust》是由英国开发商Facepunch Studios公司制作并发行的一款开放世界多人生存游戏。\n在本作中，玩家的目标就是活下去。收集或抢夺资源在荒野中生存，克服饥饿、干渴和寒冷等风险。不仅要避免各种野生动物的袭击，也要小心其他玩家的偷袭。\n收集矿物\n玩家需要在游戏中的各种遗迹中探索和搜刮战利品获得各种资源，玩家需要使用岩石、斧头或稿子收集木头、石头和各种矿物，并利用制作功能制作服饰、装备、工具等内容。当拥有足够的资源后需要建造一个基地来存放各种资源。\n在玩家之间可以使用冷兵器或热武器甚至是一块岩石进行战斗，并对其他玩家的基地进行突袭。\n除了玩家和野生动物外，还有NPC和由NPC控制的车辆会对玩家进行攻击，这些NPC分散在各个遗迹和道路旁。"
+    }
+]
